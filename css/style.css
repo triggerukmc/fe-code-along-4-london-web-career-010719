@@ -70,7 +70,7 @@ figcaption {
 }
 
 
-/* ///////LAYOUT////// */
+/* ///////MEDIA////// */
 
 img, video, audio {
   max-width: 100%;
@@ -78,6 +78,7 @@ img, video, audio {
 
 /* ///////LAYOUT////// */
 
+*{box-sizing: border-box;
 
 .wrapper {
   width: 960px;
