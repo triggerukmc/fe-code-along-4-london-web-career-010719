@@ -87,11 +87,11 @@ figcaption {
 .col-2{
   float: left;
   width: 66%;
-  background: teal;
+  background: orange;
 }
 
 .col-3{
-  background: teal;
+  background: red;
 }
 
 .clearfix:after {
@@ -103,7 +103,7 @@ figcaption {
   line-height: 0;
 }
 
-[class *= "col-"] {
+[class*="col-"] {
   margin-left: 2%;
 }
 
