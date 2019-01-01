@@ -87,13 +87,13 @@ img, video, audio {
 
 .col-1{
   float: left;
-  width: 31%;
+  width: 32%;
   background: teal;
 }
 
 .col-2{
   float: left;
-  width: 65%;
+  width: 66%;
   background: orange;
 }
 
@@ -118,6 +118,13 @@ img, video, audio {
   margin-left: 0%;
 }
 
+/* ///////SECTIONS////// */
+
+section{
+  margin-bottom: 20px;
+  padding:20px;
+  
+}
 
 
 
